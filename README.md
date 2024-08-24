@@ -24,7 +24,7 @@ Before running the application, ensure that you have the following installed:
 
     ```bash
     git clone https://github.com/dkrpandit/FinTarget.git
-    cd fintarget
+    cd Fintarget
     ```
 
 2. **Install the dependencies**:
