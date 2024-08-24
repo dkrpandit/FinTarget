@@ -23,7 +23,7 @@ Before running the application, ensure that you have the following installed:
 1. **Clone the repository** (or download the project files):
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/dkrpandit/FinTarget.git
     cd fintarget
     ```
 
